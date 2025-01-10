@@ -7,7 +7,7 @@
 
 # 💻 Technologies:
 
-  🌐 Skills : 
+  <h1> 🌐 Skills : </h1> 
   <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
   <img width="20" />
