@@ -3,8 +3,9 @@
 ---
 
 ## 💫 About Me:
-<h2>A Passionate Data Analayst 📶 </h2>
-🌱 I’m currently learning<br><br>Power BI  📊<br>Tableau 📈<br><br>⚡ Fun fact<br><br>Data is a Fuel And I am Here To Refine
+### I am a Passionate Data Analayst 📶 <br> <br>
+
+🌱 I’m currently learning<br><br>Power BI  📊<br>Tableau 📈<br><br>⚡ Fun fact<br><br>Data is an Oil And I am Here To Refine
 
 ---
 
