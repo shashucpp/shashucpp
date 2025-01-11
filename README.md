@@ -76,7 +76,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shashucpp&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shashucpp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=shashucpp&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+---
+
+<img src="https://raw.githubusercontent.com/shashucpp/shashucpp/output/snake.svg" alt="Snake animation" />
+
+###
