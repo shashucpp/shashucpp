@@ -1,9 +1,9 @@
 <h1> ⭐ I'm Shashank Panwar! ⭐ </h1>
-<h2>A Passionate Data Analayst 📶 </h2>
 
 ---
 
 ## 💫 About Me:
+<h2>A Passionate Data Analayst 📶 </h2>
 🌱 I’m currently learning<br><br>Power BI  📊<br>Tableau 📈<br><br>⚡ Fun fact<br><br>Data is a Fuel And I am Here To Refine
 
 ---
@@ -77,6 +77,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shashucpp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=shashucpp&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=shashucpp&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4"     
+  height="150" alt="trophy graph"  />
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
